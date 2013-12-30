@@ -1,5 +1,5 @@
 // adjust_hue( color, degrees )
-// change the hue of a color
+// Changes the hue of a color. This is identical to spin( color, degrees )
 
 adjust_hue( color, degrees )
-    hsla( ( hue( color ) + degrees ), saturation( color ), lightness( color ), alpha( color ) )
+    spin( color, degrees )
