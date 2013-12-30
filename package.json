@@ -1,0 +1,24 @@
+{
+    "name" : "lakansyèl",
+    "version": "0.0.1",
+    "description": "Color functions for stylus (mostly imported from sass)",
+    "homepage": "https://github.com/leny/lakansyel",
+    "author": {
+        "name": "Leny",
+        "email": "info@flatland.be",
+        "url": "http://leny.me"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/leny/lakansyel.git"
+    },
+    "bugs": {
+        "url": "https://github.com/leny/lakansyel/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Leny/lakansyel/blob/master/LICENSE"
+        }
+    ]
+}
