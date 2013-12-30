@@ -1,16 +1,25 @@
 @import "./../../lib/lakansyel"
 
 .red-complement
-    color complement( #f00 )
+    color complement( #f00 ) // should be #0ff
 
 .blue-complement
-    color complement( #00f )
+    color complement( #00f ) // should be #ff0
 
 .green-complement
-    color complement( #0f0 )
+    color complement( #0f0 ) // should be #f0f
 
 .yellow-complement
-    color complement( #ff0 )
+    color complement( #ff0 ) // should be #00f
 
 .black-complement
-    color complement( #000 )
+    color complement( #000 ) // should be #000
+
+.white-complement
+    color complement( #fff ) // should be #fff
+
+.random-one-complement
+    color complement( #d87240 ) // should be #40a6d8
+
+.random-two-complement
+    color complement( #fd0cc7 ) // should be #0cfd42
