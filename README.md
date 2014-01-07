@@ -16,8 +16,8 @@ Include **lakansyèl** in your stylus stylesheets with
 
 #### monochrome( color )
 
-Returns monochromatic variations of the given color.
-`returned[0]`: first monochrome variation ( given color's lightness minus 33% )
+Returns monochromatic variations of the given color.  
+`returned[0]`: first monochrome variation ( given color's lightness minus 33% )  
 `returned[1]`: second monochrome variation ( given color's lightness minus 66% )
 
 ```css
@@ -32,8 +32,8 @@ variations = monochrome( #f00 )
 
 #### analogous( color )
 
-Returns analogous variations of the given color.
-`returned[0]`: first analogous variation ( spinning given color by 30 degrees )
+Returns analogous variations of the given color.  
+`returned[0]`: first analogous variation ( spinning given color by 30 degrees )  
 `returned[1]`: second analogous variation ( spinning given color by -30 degrees )
 
 ```css
@@ -48,10 +48,10 @@ variations = analogous( #f00 )
 
 #### extended-analogous( color )
 
-Returns more analogous variations of the given color.
-`returned[0]`: first analogous variation ( spinning given color by 30 degrees )
-`returned[1]`: second analogous variation ( spinning given color by -30 degrees )
-`returned[2]`: third analogous variation ( spinning given color by 60 degrees )
+Returns more analogous variations of the given color.  
+`returned[0]`: first analogous variation ( spinning given color by 30 degrees )  
+`returned[1]`: second analogous variation ( spinning given color by -30 degrees )  
+`returned[2]`: third analogous variation ( spinning given color by 60 degrees )  
 `returned[3]`: fourth analogous variation ( spinning given color by -60 degrees )
 
 ```css
@@ -72,8 +72,8 @@ variations = extended-analogous( #f00 )
 
 #### split-complements( color )
 
-Returns split-complements variations of the given color.
-`returned[0]`: first split-complements variation ( spinning given color by 150 degrees )
+Returns split-complements variations of the given color.  
+`returned[0]`: first split-complements variation ( spinning given color by 150 degrees )  
 `returned[1]`: second split-complements variation ( spinning given color by -150 degrees )
 
 ```css
@@ -88,8 +88,8 @@ variations = split-complements( #f00 )
 
 #### triad( color )
 
-Returns triad variations of the given color.
-`returned[0]`: first triad variation ( spinning given color by 120 degrees )
+Returns triad variations of the given color.  
+`returned[0]`: first triad variation ( spinning given color by 120 degrees )  
 `returned[1]`: second triad variation ( spinning given color by -120 degrees )
 
 ```css
@@ -104,9 +104,9 @@ variations = triad( #f00 )
 
 #### quad( color ) & tetrad( color )
 
-Returns quad (*tetrad*) variations of the given color.
-`returned[0]`: first quad variation ( spinning given color by 90 degrees )
-`returned[1]`: second quad variation ( spinning given color by -90 degrees )
+Returns quad (*tetrad*) variations of the given color.  
+`returned[0]`: first quad variation ( spinning given color by 90 degrees )  
+`returned[1]`: second quad variation ( spinning given color by -90 degrees )  
 `returned[2]`: third quad variation ( spinning given color by 180 degrees ) - complement color
 
 ```css
