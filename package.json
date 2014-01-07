@@ -1,0 +1,32 @@
+{
+    "name" : "lakansyel-stylus",
+    "version": "0.0.1",
+    "description": "Color Scheme utilities for stylus",
+    "homepage": "https://github.com/leny/lakansyel-stylus",
+    "author": {
+        "name": "Leny",
+        "email": "info@flatland.be",
+        "url": "http://leny.me"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/leny/lakansyel-stylus.git"
+    },
+    "bugs": {
+        "url": "https://github.com/leny/lakansyel-stylus/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Leny/lakansyel-stylus/blob/master/LICENSE"
+        }
+    ],
+    "scripts": {
+        "test": "./node_modules/.bin/mocha test/ --require should --bail --reporter Spec"
+    },
+    "devDependencies": {
+        "stylus": "~0.42",
+        "should": "*",
+        "mocha": "*"
+    }
+}
