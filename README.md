@@ -122,6 +122,16 @@ variations = quad( #f00 )
     color variations[2]
 ```
 
+#### luminosity( color )
+
+Returns the [WCAG luminosity](http://www.w3.org/TR/WCAG20/#relativeluminancedef) of the given color, as a `Number` between `0` (*black*) and `1` (*white*).
+
+```
+.luminosity
+    background #ff0
+    color luminosity( #ff0 ) > 0.5 ? black : white
+```
+
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style.  
 Add unit tests for any new or changed functionality.  
@@ -130,6 +140,7 @@ Test your code using `npm test`.
 ## Release History
 
 **2014-01-07** : v0.0.1
+**2014-01-28** : v0.1.0
 
 ## License 
 
