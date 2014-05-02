@@ -1,8 +1,8 @@
 # lakansyèl for Stylus
 
-> Color Scheme utilities for [Stylus](http://learnboost.github.io/stylus/)
+![NPM version](http://img.shields.io/npm/v/stylus-lakansyel.svg) ![Build Status](http://img.shields.io/travis/leny/stylus-lakansyel.svg) ![Dependency Status](https://david-dm.org/leny/stylus-lakansyel.svg) ![Downloads counter](http://img.shields.io/npm/dm/stylus-lakansyel.svg)
 
-[![Build Status](https://secure.travis-ci.org/leny/stylus-lakansyel.png?branch=master)](http://travis-ci.org/leny/stylus-lakansyel) [![NPM version](https://badge.fury.io/js/stylus-lakansyel.png)](http://badge.fury.io/js/stylus-lakansyel) [![Dependency Status](https://david-dm.org/leny/stylus-lakansyel.png)](https://david-dm.org/leny/stylus-lakansyel)
+> Color Scheme utilities for [Stylus](http://learnboost.github.io/stylus/)
 
 * * *
 
