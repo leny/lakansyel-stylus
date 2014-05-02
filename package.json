@@ -39,7 +39,7 @@
         "test": "./node_modules/.bin/mocha test/ --require should --bail --reporter Spec"
     },
     "devDependencies": {
-        "stylus": "~0.42",
+        "stylus": "~0.43",
         "should": "*",
         "mocha": "*"
     }
