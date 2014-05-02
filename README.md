@@ -8,6 +8,12 @@
 
 **lakansyèl for Stylus** is a collection of utilities to generate color schemes in your stylesheets.
 
+## Installation
+
+```
+npm install stylus-lakansyel
+```
+
 ## Usage
 
 Include **lakansyèl** in your stylus stylesheets with
