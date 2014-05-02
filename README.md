@@ -1,6 +1,10 @@
 # lakansyèl for Stylus
 
-> Color Scheme utilities for stylus
+> Color Scheme utilities for [Stylus](http://learnboost.github.io/stylus/)
+
+[![Build Status](https://secure.travis-ci.org/leny/lakansyel-stylus.png?branch=master)](http://travis-ci.org/leny/lakansyel-stylus) [![NPM version](https://badge.fury.io/js/lakansyel-stylus.png)](http://badge.fury.io/js/lakansyel-stylus) [![Dependency Status](https://david-dm.org/leny/lakansyel-stylus.png)](https://david-dm.org/leny/lakansyel-stylus)
+
+* * *
 
 **lakansyèl for Stylus** is a collection of utilities to generate color schemes in your stylesheets.
 
@@ -12,7 +16,11 @@ Include **lakansyèl** in your stylus stylesheets with
 @import "lakansyel"
 ```
 
-### Utilities
+### Polyfill
+
+`TODO`
+
+### Utility functions
 
 #### monochrome( color )
 

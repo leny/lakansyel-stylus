@@ -2,6 +2,20 @@
     "name" : "lakansyel-stylus",
     "version": "0.1.0",
     "description": "Color Scheme utilities for stylus",
+    "keywords": [
+      "Stylus",
+      "CSS",
+      "plugin",
+      "polyfill",
+      "colors",
+      "utility",
+      "monochrome",
+      "analogous",
+      "luminosity",
+      "quad",
+      "split",
+      "triad"
+    ],
     "homepage": "https://github.com/leny/lakansyel-stylus",
     "author": {
         "name": "Leny",
