@@ -1,5 +1,5 @@
 {
-    "name" : "lakansyel-stylus",
+    "name" : "stylus-lakansyel",
     "version": "0.1.0",
     "description": "Color Scheme utilities for stylus",
     "keywords": [
@@ -16,7 +16,7 @@
       "split",
       "triad"
     ],
-    "homepage": "https://github.com/leny/lakansyel-stylus",
+    "homepage": "https://github.com/leny/stylus-lakansyel",
     "author": {
         "name": "Leny",
         "email": "info@flatland.be",
@@ -24,15 +24,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/leny/lakansyel-stylus.git"
+        "url": "git://github.com/leny/stylus-lakansyel.git"
     },
     "bugs": {
-        "url": "https://github.com/leny/lakansyel-stylus/issues"
+        "url": "https://github.com/leny/stylus-lakansyel/issues"
     },
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/Leny/lakansyel-stylus/blob/master/LICENSE"
+            "url": "https://github.com/Leny/stylus-lakansyel/blob/master/LICENSE"
         }
     ],
     "scripts": {
