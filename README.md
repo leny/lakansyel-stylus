@@ -2,7 +2,7 @@
 
 > Color Scheme utilities for [Stylus](http://learnboost.github.io/stylus/)
 
-[![Build Status](https://secure.travis-ci.org/leny/lakansyel-stylus.png?branch=master)](http://travis-ci.org/leny/lakansyel-stylus) [![NPM version](https://badge.fury.io/js/lakansyel-stylus.png)](http://badge.fury.io/js/lakansyel-stylus) [![Dependency Status](https://david-dm.org/leny/lakansyel-stylus.png)](https://david-dm.org/leny/lakansyel-stylus)
+[![Build Status](https://secure.travis-ci.org/leny/stylus-lakansyel.png?branch=master)](http://travis-ci.org/leny/stylus-lakansyel) [![NPM version](https://badge.fury.io/js/stylus-lakansyel.png)](http://badge.fury.io/js/stylus-lakansyel) [![Dependency Status](https://david-dm.org/leny/stylus-lakansyel.png)](https://david-dm.org/leny/stylus-lakansyel)
 
 * * *
 
