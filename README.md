@@ -159,6 +159,7 @@ Test your code using `npm test`.
 
 **2014-01-07** : v0.0.1
 **2014-01-28** : v0.1.0
+**2014-05-14** : v0.1.3 + deprecation in favor of [kouto-swiss](https://www.npmjs.org/package/kouto-swiss)
 
 ## License 
 
