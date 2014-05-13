@@ -6,6 +6,14 @@
 
 * * *
 
+# Hey, listen !
+
+This plugin is deprecated. The `0.1.3` version will be the last.
+
+Hey, don't cry ! All the incredible mixins of lakansyèl have been moved to [kouto-swiss](https://www.npmjs.org/package/kouto-swiss), a complete css framework for Stylus.
+
+* * *
+
 **lakansyèl for Stylus** is a collection of utilities to generate color schemes in your stylesheets.
 
 ## Installation
@@ -21,10 +29,6 @@ Include **lakansyèl** in your stylus stylesheets with
 ```css
 @import "lakansyel"
 ```
-
-### Polyfill
-
-`TODO`
 
 ### Utility functions
 
